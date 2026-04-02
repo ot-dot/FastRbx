@@ -13,12 +13,24 @@ launcher for Roblox using deep links.
 ## Features
 
 "Open Place" --- open a Place by ID.
+
 "Join to Player" --- join a specific player.
+
 "Join to JobId" --- join a specific server.
+
 "Open Place with LaunchData" --- launch with custom data.
-"Change Avatar Background".
-"FastFlags".
-"Tab Glitch".
+
+"Change Avatar Background" --- Classic/Custom
+
+"Cursors" --- Classic/Custom 
+
+"Custom Font"
+
+"Custom Death Sound"
+
+"FastFlags"
+
+"Tab Glitch" --- Better than on Windows
 
 It combines multiple launch methods and client options into a single
 Shortcut.
